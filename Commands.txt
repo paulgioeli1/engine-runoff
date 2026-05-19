@@ -1,0 +1,4 @@
+npx degit phaserjs/template-vite-ts phaser
+cd phaser
+npm install
+npm run dev
