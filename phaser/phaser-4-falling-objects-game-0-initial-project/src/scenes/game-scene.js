@@ -1,8 +1,14 @@
-import Phaser from '../lib/phaser.js';
-import { SCENE_KEYS } from '../common/scene-keys.js';
-import { ASSET_KEYS } from '../common/assets.js';
+// constructor → init → preload → create → update (loop)
+// this is the phaser loop. This is God.
 
-  const textConfig = {
+import Phaser from '../lib/phaser.js';
+import { SCENE_KEYS } from '../common/scene-keys.js'; //curly braces allow for the explicit export of that object from that file
+import { ASSET_KEYS } from '../common/assets.js'; // same as above.
+
+
+// in javascript, this is called an object. Also, const means that we can't change the value of the variable
+// though we can change how the variable presents (like we can make font size bigger, for example)
+  const textConfig = { 
     fontSize: '40px',
     color: '#043D8C',
     stroke: '#ffffff',
@@ -25,12 +31,18 @@ export class GameScene extends Phaser.Scene {
   #livesRemaining;
   #livesRemainingTextGamObject;
 
+
+  //super calls the constructor of the parent class.
   constructor() {
     super({
       key: SCENE_KEYS.GAME_SCENE,
     });
   }
 
+
+  // 'this.XXX' keyword allows for these variables to be accessed across the entirety
+  // of the instance of the Game Scene class
+  // it allows those variables to "persist", ish.
   init(){
     this.#playerSpeed = 500;
     this.#fallingObjectSpeed = 200;
