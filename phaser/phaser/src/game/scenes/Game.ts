@@ -5,6 +5,10 @@ export class Game extends Scene
     camera: Phaser.Cameras.Scene2D.Camera;
     background: Phaser.GameObjects.Image;
     msg_text : Phaser.GameObjects.Text;
+    button1: Phaser.GameObjects.Rectangle;
+    clickCounter: number;
+    clickBar: Phaser.GameObjects.Rectangle;
+    clickText: Phaser.GameObjects.Text;
 
     constructor ()
     {
@@ -26,10 +30,22 @@ export class Game extends Scene
         });
         this.msg_text.setOrigin(0.5);
 
-        this.input.once('pointerdown', () => {
+        this.button1 = this.add.rectangle(512, 500, 200, 80, 0xff0000);
+        this.clickText = this.add.text(512, 500, '0', {
+            fontFamily: 'Arial Black', fontSize: 32,color: '#ffffff'
+        }).setOrigin(0.5)
+        this.clickCounter = 0;
+        this.clickBar = this.add.rectangle(800, 500, 75, 0, 0x0096c7).setOrigin(0.5,1);
 
-            this.scene.start('GameOver');
-
+        this.button1.setInteractive();
+        this.button1.on('pointerdown', () => {
+            this.clickCounter +=1;
+            this.clickBar.setSize(75, this.clickCounter * 50);
+            this.clickText.setText(`${this.clickCounter}`)
+            if(this.clickCounter >= 10) {
+                this.scene.start('GameOver');
+            }
         });
+
     }
 }
