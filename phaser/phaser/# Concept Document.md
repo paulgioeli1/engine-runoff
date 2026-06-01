@@ -5,14 +5,26 @@ The purpose of this document is to provide a high level overview of the game I'm
 
 ## 30 Second Ptich
 
-Explore an Earth-like alien world where great mysteries lie just on the horizon. Using idle-based mechanics, farm numerous crops to allow you to devle into foreign biomes and attract strange animals and beasts from across the world. Breed beasts to create new animals with new abilities that continue allow to discover new regions and learn the sad mysteries of a world long left untouched, but once deepy loved. Restore the world to it's former glory by progressing through the biomes to restore the light of the world.
+Explore an Earth-like alien world that's lost its color. Idler-based farming mechanics fuel the growth of your crops, while you attract, tame, and breed beasts from across the land to solve the puzzles that gate new regions. Progress is visceral: the monochrome settings bloom their way back to color as you discover the sad mysteries of a world long left untouched, but once deeply loved.
 
-
-Explore an Earth-like alien world that's lost it's color. Idler-based farming mechanics allow you to grow crops and attract beasts from across the land to allow you to uncover and explore new regions. Progress is felt as the monochrome settings bloom their way back to color as you discover the sad mysteries of a world long left untouched, but once deeply loved. You'll progress the biome, breed new beasts, and solve puzzles all to learn more about an ancient civilization that lost it's color.
-
-Explore an Earth-like alien world that's lost it's color. Idler-based farming mechanics allow you to grow crops and attract beasts from across the land to allow you to uncover and explore new regions. Progress is felt as the monochrome settings bloom their way back to color as you discover the sad mysteries of a world long left untouched, but once deeply loved. Breeding beasts allows for different traits to emerge, which in turn allow for regional progress that otherwise might not have been possible. Puzzles will combine crops, beasts, and your own intuition to finally unlock the new zones and learn all you can about this lost civilization.
 
 ## Design Pillars
+
+I'm just gonna riff here for a second. So the big thing is that by and large we're seeing an overall degredation of competitive team based live ops. Big publishers with deep pockets are not making it work. Not even close. They all want What Riot/Blizzard/EA have, and none of them have launched games successfully.  So my design pillars are going to be based on the fact that people don't want to do that shit anymore.
+
+Some thoughts:
+I want players to feel meaningful progress every time they log on.
+I want players to be able to pursue depth and breadth as much as they so choose (I want a LOT of content for them to explore)
+I want player to be able to play "for free" with ads for as long as they want.
+I want this to be a really easy game to play on a second screen (phone, second display, laptop while watching netflix, whatever)
+I want the game to be beautiful. Incredible artistic excellence.
+I want there to a terribly tragic narrative throughline that unites people.
+I want this to inform other creative endeavors
+
+
+### Pilllar 1
+
+### Pillar 2
 
 
 ## Core Loop
