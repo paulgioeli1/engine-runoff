@@ -85,6 +85,8 @@ Got it. Throughout each region, there are X color fountains. Color fountains are
 
 ## World Setting / Tone
 
+The only constant in the universe is change, and when civilizations rise, they also fall. Our players find themselves thrown into a foreign world where the remnants of an ancient civilization are still reverberating through the world. Structures overgrown with plant life, shrines that house a range of fauna, great structures now hollow are punctured with sunlight shining through a decrepit roof. 
+
 
 
 ### References
