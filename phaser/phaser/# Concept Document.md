@@ -85,9 +85,21 @@ Got it. Throughout each region, there are X color fountains. Color fountains are
 
 ## World Setting / Tone
 
-The only constant in the universe is change, and when civilizations rise, they also fall. Our players find themselves thrown into a foreign world where the remnants of an ancient civilization are still reverberating through the world. Structures overgrown with plant life, shrines that house a range of fauna, great structures now hollow are punctured with sunlight shining through a decrepit roof. 
+### The Spine
+The only constant in the universe is change, and when civilizations rise, they also fall. Our players find themselves thrown into a foreign world where the remnants of an ancient civilization are still reverberating through the world. Structures overgrown with plant life, shrines that house a range of fauna, great structures now hollow are punctured with sunlight shining through a decrepit roof. A great civilization who's hubris was it's downfall.
 
+Fuck it, I'm just gonna keep going with some imagery:
 
+- A broken stone tablet that holds a set of "runes"; the player won't know what they are initially
+- I like the idea of color being no more than someone's inerpretation of the reflection of a surface. That feels poetic and powerful.
+- Let's keep riffing on that. I like the idea that color is reflection, and a world without color no longer reflects in the way it used to. Something about being closed off makes sense, and why the world closed off OOOOOOOHHH I like the idea of grief of a great loss, something like a princess or my version of that being adored by all, and someone or something took her from her people, and so they closed off to the world.
+- I like the idea of stone technology. Like, moving stones around, rotating stones, can all lead to doors opening, or some "machines" functioning. This feels like I'm aping BOTW pretty hard. But then again, so did genshin, soooooo...
+- I like the thought of technology + magic + religion all kind of being the same thing to this fallen civilization.
+- I see a lot of green and gray. It'll make the blue, yellows, red, orange, pinks, and fuschias stand out.
+- One of the other things I'm not committed to is a single line spined mammalian biology. I think X, Y, or V shaped spines might be a really interesting way to create creatures.
+- I want to break the traditional elemental paradigm. Fire, water, electricity, earth, wind, ice. All of these have been done over and over again in every card game ever. I want to develop a set of elements that really feel like they should exist in this world.  Probably somehow or something about energy is stored in this world.
+
+### How the world Feels
 
 ### References
 
