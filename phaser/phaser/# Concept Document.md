@@ -85,11 +85,12 @@ Got it. Throughout each region, there are X color fountains. Color fountains are
 
 ## World Setting / Tone
 
-### The Spine
-The only constant in the universe is change, and when civilizations rise, they also fall. Our players find themselves thrown into a foreign world where the remnants of an ancient civilization are still reverberating through the world. Structures overgrown with plant life, shrines that house a range of fauna, great structures now hollow are punctured with sunlight shining through a decrepit roof. A great civilization who's hubris was it's downfall.
+### How the world feels
 
-Fuck it, I'm just gonna keep going with some imagery:
+The world should feel like it's trying to tell you something in a language you don't yet speak, and the only way to learn the language is by engaging you in the game. It should feel like the world is trying to tell you it's story because if you don't learn it it will be lost forever. The world should leave you breadcrumbs of what's happened from the past, both with things the player does engage with (things like stone tablets they can "read", puzzles tehy complete, or NPCs they engage with) or things they don't (an environmental piece that shows but doesn't tell.) The world should feel melancholy but not hopeless, misunderstood but WANTING to be understood, like it has moved on but still yearns for a past. I imagine some of the mammals might have felt this way when the meteor destroyed all the dinosaurs.
 
+### Imagery / Themes / Motifs
+- Structures overgrown with plant life, shrines that house a range of fauna, great structures now hollow are punctured with sunlight shining through a decrepit roof.
 - A broken stone tablet that holds a set of "runes"; the player won't know what they are initially
 - I like the idea of color being no more than someone's inerpretation of the reflection of a surface. That feels poetic and powerful.
 - Let's keep riffing on that. I like the idea that color is reflection, and a world without color no longer reflects in the way it used to. Something about being closed off makes sense, and why the world closed off OOOOOOOHHH I like the idea of grief of a great loss, something like a princess or my version of that being adored by all, and someone or something took her from her people, and so they closed off to the world.
@@ -99,9 +100,42 @@ Fuck it, I'm just gonna keep going with some imagery:
 - One of the other things I'm not committed to is a single line spined mammalian biology. I think X, Y, or V shaped spines might be a really interesting way to create creatures.
 - I want to break the traditional elemental paradigm. Fire, water, electricity, earth, wind, ice. All of these have been done over and over again in every card game ever. I want to develop a set of elements that really feel like they should exist in this world.  Probably somehow or something about energy is stored in this world.
 
-### How the world Feels
-
 ### References
 
+Hollow Knight, Horizon: Zero Dawn, Breath of the Wild - Something happened here, a long time ago, and when you start the game you really don't know what's going on.
+Hyperlight Drifter - S+ tier world design using pixels
+Shadow of the Colossus - Dark, sad, but has some levity with the main characters being children.
+
+### Antireferences:
+
+Darksouls/Blasphemous - too grimdark
+Pokemon - Too cutesy, plus a lot of the more recent pokemon designs look stupid as shit. I can grok an electic mouse, I can't grok a creature that's a fucking ice cream cone, lamp, apple, or tea cup.
+Moonstone Island - too cute.
 
 ## Scope  
+
+### Platform and Format
+
+Platform will be PC and mobile, but importantly browser based, not store based. Game will be free to play with ad monetization for players who want to progress faster. Third party store front or something will exist where players can make additional purchases. Monetization strategy has not been fully fleshed out yet, but roughly a target ARPA will be $0.10.
+
+### Content scale at Launch vs. Post Launch
+
+The average player should have roughly 6 months of content to get through before they "run out" of things to do. This could flex up or down based on how players choose to engage. However, a 6 month timeline gives me a month or two to squish bugs and another few months to get the next region set up. I have this idea that a region should be completeable within a month, maybe two, though two feels like too long a time. Regions will launch with anywhere between 3 and 7 creatures, no more than 10 crops each, and between 3-9 color fountain puzzles to fill out.
+
+### Session shape
+
+It seems highly premature to outline this, but I want players to be able to get value out of a 5 minute session 1x per day, or 10x perday, or a single 2 hour session. There should be a progression marker for each one of these session tentpoles.
+
+### Time horizon
+
+Soft launch month 6, public launch month 24, subject to life
+
+### Not in scope
+
+- Player to player interaction - I don't think I can handle doing that sort of thing yet, and I don't know that it's necessary to do so.
+- Creature battles - that's what pokemon and a million others in the genre are for.
+- PvP - not even sure what this is in an idler, but no
+- lifetime persistence - I won't allow idle mechanics to run rampant forever.
+- Dialogue - story will be told through storyboarded pictures instead of text. Makes loc real easy.
+- Combat - none, not part of the genre
+- Console - not part of the strategy, you shouldn't be beholden to sony to play my game. Also, they'll all have a phone anyway.
