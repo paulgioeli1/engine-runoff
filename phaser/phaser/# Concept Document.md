@@ -46,16 +46,6 @@ The essence of the core loop:
 9. Player solves puzzle unlocks new area, with new crops, beasts, maybe an npc or two, etc.
 10. Player goes back to step 2, in the new region.
 
-Things I haven't hit on:
-
-How do they get back to their farm?
-How do they travel with items/beasts?
-What are the traits of crops and beasts that allow them to help solving 2D- pixel art puzzles.
-I put nothing in here about restoring the color. Shit. For now, it likely would be that planting crops and taming beasts is what brings the color back to the world.
-
-
-Got it. Throughout each region, there are X color fountains. Color fountains are like mini puzzles you solve in order to get the color back in the world, something akin to BOTW unmasking the overworld map when you activate a tower. Yep, this is definitely it. There are [ODD NUMBER] of fountains per region, and each one "brings the color" back to a small part of the map. This trains players on how to solve puzzles, how to use crops and beasts to do so. And then when all XX fountains have been made to "flow" again, that unlocks the final puzzle to locate the new region. Yep Yep Yep. I like this alot, it's easy to grok, easy to tune and design, and allows for ANOTHER form of progression for players to feel.
-
 ## World Setting / Tone
 
 ### How the world feels
@@ -89,7 +79,7 @@ Moonstone Island - too cute.
 
 ### Platform and Format
 
-Platform will be PC and mobile, but importantly browser based, not store based. Game will be free to play with ad monetization for players who want to progress faster. Third party store front or something will exist where players can make additional purchases. Monetization strategy has not been fully fleshed out yet, but roughly a target ARPA will be $0.10.
+Platform will be PC and mobile, but importantly browser based, not store based. Game will be free to play with ad monetization for players who want to progress faster. Third party store front or something will exist where players can make additional purchases. Monetization strategy has not been fully fleshed out yet, but roughly a target ARPDAU will be $0.10.
 
 ### Content scale at Launch vs. Post Launch
 
