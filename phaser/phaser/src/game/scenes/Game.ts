@@ -43,7 +43,8 @@ export class Game extends Scene
             this.clickBar.setSize(75, this.clickCounter * 50);
             this.clickText.setText(`${this.clickCounter}`)
             if(this.clickCounter >= 10) {
-                this.scene.start('GameOver');
+                // this.scene.start('GameOver');
+                this.scene.start('FarmPrototype');
             }
         });
 
